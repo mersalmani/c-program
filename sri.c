@@ -1,5 +1,10 @@
 #include<stdio.h>
-void main(){
-    if(printf("Hello world")){
-    }
+#include<conio.h>
+void main()
+{
+    if(printf("hello world")){
 }
+getch();
+}    
+    
+
